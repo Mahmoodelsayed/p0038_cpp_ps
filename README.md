@@ -8,3 +8,5 @@ you want to solve problems in c++, start here!
 - [problem 3](./cpp/ps0003)
 - [problem 4](./cpp/ps0004)
 - [problem 5](./cpp/ps0005)
+- [problem 6](./cpp/ps0006)
+- [problem 7](./cpp/ps0007)
